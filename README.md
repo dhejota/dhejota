@@ -1,12 +1,16 @@
-<h1 align="center">Olá! 👋 Eu sou Dimas</h1>
+<h1 align="center">Olá! Eu sou Dimas</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, automação e desenvolvimento de software.
+  💻 Desenvolvedor Full Stack | Business Intelligence | Cloud Computing | Inteligência Artificial
+</p>
+
+<p align="center">
+  Apaixonado por desenvolvimento de software, análise de dados e criação de soluções inovadoras.
 </p>
 
 <p align="center">
   <a href="https://github.com/dhejota">
-    <img src="https://komarev.com/ghpvc/?username=dhejota&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=dhejota&label=Visualizações&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -14,10 +18,11 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor de Software
-- 🌱 Sempre aprendendo novas tecnologias
-- ⚡ Apaixonado por programação, IA e automação
-- 🎯 Focado em criar soluções simples e eficientes
+- 💻 Desenvolvedor Full Stack
+- 📊 Experiência com Business Intelligence utilizando Power BI
+- ☁️ Estudando Microsoft Azure e Cloud Computing
+- 🤖 Interesse em Inteligência Artificial e automação
+- 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 
 ---
 
@@ -26,19 +31,13 @@
 ### Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,php"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css"/>
 </p>
 
-### Front-end
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-</p>
-
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,express"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,dotnet"/>
 </p>
 
 ### Banco de Dados
@@ -46,6 +45,26 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
+
+### Business Intelligence & Cloud
+
+- Power BI
+- Microsoft Azure
+
+### Bibliotecas Python
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Streamlit
+
+### Inteligência Artificial
+
+- ChatGPT
+- GitHub Copilot
+- OpenAI API
 
 ### Ferramentas
 
@@ -67,7 +86,7 @@
 
 ---
 
-## 🔥 Sequência
+## 🔥 Sequência de Contribuições
 
 <p align="center">
 
@@ -87,21 +106,12 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-- 🚀 Projeto 1
-- 🤖 Projeto 2
-- 🌐 Projeto 3
-
----
-
 ## 📫 Contato
 
 <p>
 
-<a href="https://github.com/dhejota">
-GitHub
-</a>
+<a href="https://www.linkedin.com/in/dimas-jose/">LinkedIn</a> •
+<a href="mailto:dimasjr11@yahoo.com.br">E-mail</a>
 
 </p>
 
@@ -109,6 +119,6 @@ GitHub
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil! Aqui você encontrará projetos de desenvolvimento, análise de dados, Business Intelligence, computação em nuvem e Inteligência Artificial.
 
 </p>
