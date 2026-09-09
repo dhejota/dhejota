@@ -1,11 +1,11 @@
-<h1 align="center">Olá! Eu sou Dimas</h1>
+<h1 align="center">Olá, eu sou Dimas</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack | Business Intelligence | Cloud Computing | Inteligência Artificial
+💻 Desenvolvedor Full Stack | Business Intelligence | Cloud Computing | Inteligência Artificial
 </p>
 
 <p align="center">
-  Apaixonado por desenvolvimento de software, análise de dados e criação de soluções inovadoras.
+Apaixonado por desenvolvimento de software, análise de dados e criação de soluções inovadoras.
 </p>
 
 <p align="center">
@@ -19,40 +19,43 @@
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor Full Stack
-- 📊 Experiência com Business Intelligence utilizando Power BI
-- ☁️ Estudando Microsoft Azure e Cloud Computing
-- 🤖 Interesse em Inteligência Artificial e automação
-- 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 📊 Experiência com análise de dados e Business Intelligence utilizando Power BI
+- ☁️ Estudando Microsoft Azure e Computação em Nuvem
+- 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento de software
+- 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css"/>
-</p>
+### Linguagens de Programação
+- Java
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
 ### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,dotnet"/>
-</p>
+- React
+- Node.js
+- Express
+- FastAPI
+- Spring Boot
 
 ### Banco de Dados
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-### Business Intelligence & Cloud
-
+### Business Intelligence
 - Power BI
+
+### Cloud
 - Microsoft Azure
 
 ### Bibliotecas Python
-
 - Pandas
 - NumPy
 - Matplotlib
@@ -61,27 +64,24 @@
 - Streamlit
 
 ### Inteligência Artificial
-
 - ChatGPT
 - GitHub Copilot
 - OpenAI API
 
 ### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
-</p>
+- Git
+- GitHub
+- Docker
+- VS Code
+- Linux
 
 ---
 
 ## 📈 Estatísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhejota&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhejota&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhejota&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhejota&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -89,9 +89,7 @@
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhejota&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=dhejota&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -99,26 +97,22 @@
 ## 🏆 Conquistas
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhejota&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=dhejota&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-<p>
-
-<a href="https://www.linkedin.com/in/dimas-jose/">LinkedIn</a> •
-<a href="mailto:dimasjr11@yahoo.com.br">E-mail</a>
-
-</p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/dimas-jose/
+- 📧 E-mail: dimasjr11@yahoo.com.br
 
 ---
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil! Aqui você encontrará projetos de desenvolvimento, análise de dados, Business Intelligence, computação em nuvem e Inteligência Artificial.
+⭐ Obrigado por visitar meu perfil!
+
+Aqui você encontrará minha evolução como desenvolvedor, com projetos voltados para desenvolvimento de software, análise de dados, Business Intelligence, Microsoft Azure e Inteligência Artificial.
 
 </p>
