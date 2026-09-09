@@ -18,101 +18,83 @@ Apaixonado por desenvolvimento de software, análise de dados e criação de sol
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack
-- 📊 Experiência com análise de dados e Business Intelligence utilizando Power BI
-- ☁️ Estudando Microsoft Azure e Computação em Nuvem
-- 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento de software
-- 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
+* 💻 Desenvolvedor Full Stack
+* 📊 Experiência com análise de dados e Business Intelligence utilizando Power BI
+* ☁️ Estudando Microsoft Azure e Computação em Nuvem
+* 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento de software
+* 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
 
 ---
 
 ## 🛠️ Tecnologias
 
 ### Linguagens de Programação
-- Java
-- Python
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
 
 ### Frameworks
-- React
-- Node.js
-- Express
-- FastAPI
-- Spring Boot
+
+* React
+* Node.js
+* Express
+* FastAPI
+* Spring Boot
 
 ### Banco de Dados
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
+
+* SQL Server
+* PostgreSQL
+* MySQL
+* MongoDB
 
 ### Business Intelligence
-- Power BI
+
+* Power BI
 
 ### Cloud
-- Microsoft Azure
+
+* Microsoft Azure
 
 ### Bibliotecas Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Streamlit
 
 ### Inteligência Artificial
-- ChatGPT
-- GitHub Copilot
-- OpenAI API
+
+* ChatGPT
+* GitHub Copilot
+* OpenAI API
+* Claude 
 
 ### Ferramentas
-- Git
-- GitHub
-- Docker
-- VS Code
-- Linux
 
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhejota&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhejota&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhejota&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhejota&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+* Git
+* GitHub
+* Docker
+* VS Code
+* Linux
 
 ---
 
 ## 📫 Contato
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/dimas-jose/
-- 📧 E-mail: dimasjr11@yahoo.com.br
+* 🔗 LinkedIn: https://www.linkedin.com/in/dimas-jose/
+* 📧 E-mail: [dimasjr11@yahoo.com.br](mailto:dimasjr11@yahoo.com.br)
 
 ---
 
 <p align="center">
 
 ⭐ Obrigado por visitar meu perfil!
-
-Aqui você encontrará minha evolução como desenvolvedor, com projetos voltados para desenvolvimento de software, análise de dados, Business Intelligence, Microsoft Azure e Inteligência Artificial.
 
 </p>
