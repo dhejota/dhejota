@@ -1,34 +1,34 @@
-<h1 align="center">Olá, eu sou Dimas</h1>
+<h1 align="center">Hello, I'm Dimas</h1>
 
 <p align="center">
-💻 Desenvolvedor Full Stack | Business Intelligence | Cloud Computing | Inteligência Artificial
+💻 Full Stack Developer | Business Intelligence | Cloud Computing | Artificial Intelligence
 </p>
 
 <p align="center">
-Apaixonado por desenvolvimento de software, análise de dados e criação de soluções inovadoras.
+Passionate about software development, data analysis, and building innovative solutions.
 </p>
 
 <p align="center">
   <a href="https://github.com/dhejota">
-    <img src="https://komarev.com/ghpvc/?username=dhejota&label=Visualizações&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=dhejota&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-* 💻 Desenvolvedor Full Stack
-* 📊 Experiência com análise de dados e Business Intelligence utilizando Power BI
-* ☁️ Estudando Microsoft Azure e Computação em Nuvem
-* 🤖 Interesse em Inteligência Artificial, automação e desenvolvimento de software
-* 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
+* 💻 Full Stack Developer
+* 📊 Experience in Data Analysis and Business Intelligence using Power BI
+* ☁️ Currently studying Microsoft Azure and Cloud Computing
+* 🤖 Interested in Artificial Intelligence, automation, and software development
+* 📚 Always learning new technologies and improving my programming skills
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-### Linguagens de Programação
+### Programming Languages
 
 * Java
 * Python
@@ -45,7 +45,7 @@ Apaixonado por desenvolvimento de software, análise de dados e criação de sol
 * FastAPI
 * Spring Boot
 
-### Banco de Dados
+### Databases
 
 * SQL Server
 * PostgreSQL
@@ -60,7 +60,7 @@ Apaixonado por desenvolvimento de software, análise de dados e criação de sol
 
 * Microsoft Azure
 
-### Bibliotecas Python
+### Python Libraries
 
 * Pandas
 * NumPy
@@ -69,14 +69,14 @@ Apaixonado por desenvolvimento de software, análise de dados e criação de sol
 * Scikit-learn
 * Streamlit
 
-### Inteligência Artificial
+### Artificial Intelligence
 
 * ChatGPT
 * GitHub Copilot
 * OpenAI API
-* Claude 
+* Claude
 
-### Ferramentas
+### Tools
 
 * Git
 * GitHub
@@ -86,15 +86,16 @@ Apaixonado por desenvolvimento de software, análise de dados e criação de sol
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/dimas-jose/
-* 📧 E-mail: [dimasjr11@yahoo.com.br](mailto:dimasjr11@yahoo.com.br)
+* 📧 Email: [dimasjr11@yahoo.com.br](mailto:dimasjr11@yahoo.com.br)
 
 ---
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thanks for visiting my profile!
 
 </p>
+
